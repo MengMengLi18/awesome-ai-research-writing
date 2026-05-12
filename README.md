@@ -336,7 +336,3 @@ npx openskills install MengMengLi18/awesome-ai-research-writing
 | 「翻译完再去一下 AI 味」 | 自动 Chain A → G |
 
 完整 prompt 内容与设计说明见 [`skill/SKILL.md`](skill/SKILL.md)。
-
----
-
-[![Star History Chart](https://api.star-history.com/svg?repos=MengMengLi18/awesome-ai-research-writing&type=Date)](https://star-history.com/#MengMengLi18/awesome-ai-research-writing&Date)
